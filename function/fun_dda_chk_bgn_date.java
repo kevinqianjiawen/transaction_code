@@ -1,3 +1,6 @@
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 /**
  * 说明：当组件将要失去焦点时触发该事件
  * @param vertifyValue 需要验证的数据
