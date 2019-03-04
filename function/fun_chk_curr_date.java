@@ -10,8 +10,5 @@ public void fun_chk_curr_date(String...args)throws ParseException{
         System.out.print("时间不正确");
         JOptionPane.showMessageDialog(null,"日期必须小于或等于当前工作日","消息提示",JOptionPane.WARNING_MESSAGE);
         fpluf8_signon_date.setFocus(true);
-        }else{
-
         }
-
         }
