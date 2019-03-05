@@ -22,6 +22,6 @@ public boolean custname(String vertifyValue,String...args){
         }else{
         tmp_cust_name="pluf40_name_2";
         }
-        //ret = disp_custname(tmp_cust_name);
+        ret = disp_custname(tmp_cust_name);
         return true;
         }
