@@ -4,6 +4,7 @@
  *
  * @param vertifyValue 需要验证的数据
  * @param ... 用户自定义参数值
+ * @author cao
  */
 public boolean fun_chk_pr_item(String vertifyValue,String...args){
         logger.debug("进入OnVailidate事件处理，args["+args+"]");
